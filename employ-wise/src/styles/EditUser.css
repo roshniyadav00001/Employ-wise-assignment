@@ -1,0 +1,10 @@
+
+  
+  .Edit-box {
+    width: 350px;
+    padding: 30px;
+    margin-top: 10px;
+    color: rgb(111, 76, 31);
+    background: rgba(139, 118, 224, 0.9);
+    box-shadow: 0 4px 8px rgba(14, 1, 1, 0.2);
+  }
