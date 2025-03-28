@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import "../styles/Login.css"; // Import CSS file for background styling
+import "../styles/Login.css"; 
 
 const Login = () => {
   const [email, setEmail] = useState("eve.holt@reqres.in");
