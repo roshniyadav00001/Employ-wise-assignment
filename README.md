@@ -1,4 +1,4 @@
-   EmployWise Assignment
+# Employ-wise-assignment
 
 # 🚀 React User Management App (Reqres API)
 
