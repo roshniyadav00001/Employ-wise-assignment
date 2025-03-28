@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ **Clone the Repository**
 ```sh
 git clone https://github.com/Employ-wise-assignment.git
-cd Employ-wise
+cd employ-wise
 
 🔗 API Endpoints Used
 Login: POST https://reqres.in/api/login
